@@ -1,15 +1,27 @@
-# Sudoku Solver GUI
+# Sudoku Solver Kivy
 
 ## Introduction
-Hello! Welcome to the most easy-to-use sudoku solver in the world!<br>
-You ask me for downloads? Hold on. I haven't introduced it to you!<br>
-This solver it very light-weight——less than 15 KB.<br>
-Also, it is convenient to use. Hit `pip install pyside6 pyqt6` in the terminal, and run main.py.<br>
+This is a self-fork of SudokuSolverQt, being an attempt to port it to mobile device.<br>
+This project is currently very unstable, with a lot of features unadded.
 
 ## Usage
-You want to try it out now? Easy!<br>
-Download the main.py from the latest release, and run it.<br>
-[Get it Now!](https://github.com/UjhhgtgTeams/SudokuSolver/releases/latest/download/main.py)
+### On a computer
+1. Clone the project.
+```
+$ git clone https://github.com/UjhhgtgTeams/SudokuSolverKivy.git
+```
+2. Install Kivy.
+```
+$ pip install kivy[full]
+```
+3. Run main.py.
+```
+$ python main.py.
+```
+### On an Android Device
+1. Follow the instructions from above.
+2. Build Android Apk.<br>
+WIP
 
 ## Navigator
 [Back: Main Site](https://ujhhgtgteams.github.io/)
