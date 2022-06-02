@@ -1,4 +1,4 @@
-# Sudoku Solver Kivy
+# SudokuSolverKivy
 
 ## Introduction
 This is a self-fork of SudokuSolverQt, being an attempt to port it to mobile device.<br>
